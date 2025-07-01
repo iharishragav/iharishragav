@@ -43,7 +43,7 @@ Arch Linux with KDE Plasma
 
 [<img align="left" alt="Kamalesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/your-linkedin-profile)
 [<img align="left" alt="Kamalesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/your-twitter-handle)
-[<img align="left" alt="Kamalesh | Bugcrowd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bugcrowd.svg" />](https://bugcrowd.com/your-bugcrowd-profile)
+[<img align="left" alt="Kamalesh | Bugcrowd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bugcrowd.svg" />](https://bugcrowd.com/kamalesh2824k)
 [<img align="left" alt="Kamalesh | TryHackMe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tryhackme.svg" />](https://tryhackme.com/p/your-tryhackme-profile)
 
 
